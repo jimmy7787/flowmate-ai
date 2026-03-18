@@ -118,9 +118,12 @@ npm run dev
 ```
 
 ---
+## Demo Scenario
+
+User inputs a task → AI analyzes it → Backend processes it → User receives a prioritized plan
 
 ## Author
 
 Dimitris Souris
-GitHub: https://github.com/jimmy7787
+GitHub: https://github.com/jimmy7787 
 
